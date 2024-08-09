@@ -115,7 +115,7 @@ for _ in range(int(input())):
 <br></br>
 
 
->   [E、Triple Operations](https://codeforces.com/contest/1999/problem/E)
+>  [E、Triple Operations](https://codeforces.com/contest/1999/problem/E)
 
 **思路:** 处理过程为先处理第一个，让其变成0， 再遍历处理。
 
@@ -153,7 +153,7 @@ for _ in range(int(input())):
 ```
 <br></br>
 
->   [F、Expected Median](https://codeforces.com/contest/1999/problem/F)
+>  [F、Expected Median](https://codeforces.com/contest/1999/problem/F)
 
 **思路:** 预先处理组合数，减少复杂度
 
@@ -186,7 +186,7 @@ for _ in range(int(input())):
 ```
 <br></br>
 
->   [G1、 Ruler (easy version)](https://codeforces.com/contest/1999/problem/G1)
+>  [G1、 Ruler (easy version)](https://codeforces.com/contest/1999/problem/G1)
 
 **思路:** 板正的二分题。
 
@@ -217,7 +217,7 @@ for _ in range(int(input())):
 ```
 <br></br>
 
->   [G2、Ruler (hard version)](https://codeforces.com/contest/1999/problem/G2)
+>  [G2、Ruler (hard version)](https://codeforces.com/contest/1999/problem/G2)
 
 **思路:** 三分题。
 
@@ -244,7 +244,7 @@ for _ in range(int(input())):
 <br></br>
 ## 题目
 
-| 题号 | 问题 | 链接 |
+| 题号 | 题目 | 链接 |
 | -------- | -------- | -------- |
 | A | A+B Again? | [A、 A+B Again?](https://codeforces.com/contest/1999/problem/A) |
 | B | Card Game | [B、Card Game](https://codeforces.com/contest/1999/problem/B) |
