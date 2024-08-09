@@ -134,7 +134,7 @@ else:
 <br></br>
 
 
->   [E、Xor Sigma Problem](https://atcoder.jp/contests/abc365/tasks/abc365_e)
+>  [E、Xor Sigma Problem](https://atcoder.jp/contests/abc365/tasks/abc365_e)
 
 **思路:** 通过每一位的二进制表示，来分别计算每一个位次的情况。
 
@@ -168,7 +168,7 @@ print(ans)
 <br></br>
 ## 题目
 
-| 题号 | 问题 | 链接 |
+| 题号 | 题目 | 链接 |
 |-|-|-|
 | A | Leap Year | [A、Leap Year](https://atcoder.jp/contests/abc365/tasks/abc365_a) |
 | B | Second Best | [B、Second Best](https://atcoder.jp/contests/abc365/tasks/abc365_b) |
